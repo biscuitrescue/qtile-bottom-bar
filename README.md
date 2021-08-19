@@ -1,2 +1,3 @@
-# qtile-bottom-
-![screenshot_20210525_203132](https://user-images.githubusercontent.com/67876678/119520804-424db680-bd98-11eb-8283-7745c1cfc98f.png)
+# qtile-bottom-bar
+
+![screenshot_20210820_003840](https://user-images.githubusercontent.com/67876678/130130008-cb8a79a0-c4bd-40c8-8c7a-170155163324.png)
