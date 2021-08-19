@@ -257,8 +257,8 @@ extension_defaults = widget_defaults.copy()
 
 screens = [
     Screen(
-        # wallpaper='/home/karttikeya/Pictures/Wallpapers/purp.webp',
-        # wallpaper_mode='fill',
+        wallpaper='/home/karttikeya/Pictures/Wallpapers/bluey.png',
+        wallpaper_mode='fill',
         bottom=bar.Bar(
         [
             widget.Sep(
